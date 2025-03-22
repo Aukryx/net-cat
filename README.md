@@ -14,7 +14,7 @@ To run the server, simply execute the following command:
 
 ```sh
 # clone the project
-git clone https://zone01normandie.org/git/clecart/net-cat.git
+git clone https://zone01normandie.org/git/Aukryx/net-cat.git
 # build application
 go build -o TCPChat
 # launch server
